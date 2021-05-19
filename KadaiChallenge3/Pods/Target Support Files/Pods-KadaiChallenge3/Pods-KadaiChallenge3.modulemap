@@ -1,0 +1,6 @@
+framework module Pods_KadaiChallenge3 {
+  umbrella header "Pods-KadaiChallenge3-umbrella.h"
+
+  export *
+  module * { export * }
+}

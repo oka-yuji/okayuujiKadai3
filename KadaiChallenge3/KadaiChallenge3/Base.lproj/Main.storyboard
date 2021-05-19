@@ -123,6 +123,13 @@
                             <constraint firstItem="Hut-hV-w24" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Qce-vJ-Zym"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="inputValueLabelLeft" destination="pXB-XR-EbI" id="cpc-3A-Vq6"/>
+                        <outlet property="inputValueLabelRight" destination="caS-cK-VDm" id="zif-y4-OHS"/>
+                        <outlet property="inputValueLeft" destination="kkh-hj-3lv" id="Fdd-dv-5Jx"/>
+                        <outlet property="inputValueRight" destination="iQ5-Vb-SBp" id="tyI-HY-eTa"/>
+                        <outlet property="sumValue" destination="0hZ-gv-Jzx" id="pXY-yX-8nN"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

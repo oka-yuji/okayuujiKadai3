@@ -81,6 +81,9 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1K4-LW-Itg">
                                                 <rect key="frame" x="87" y="42" width="46" height="30"/>
                                                 <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O9n-1m-X2k"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -128,6 +131,8 @@
                         <outlet property="inputValueLabelRight" destination="caS-cK-VDm" id="zif-y4-OHS"/>
                         <outlet property="inputValueLeft" destination="kkh-hj-3lv" id="Fdd-dv-5Jx"/>
                         <outlet property="inputValueRight" destination="iQ5-Vb-SBp" id="tyI-HY-eTa"/>
+                        <outlet property="isOpeletorLeft" destination="uSd-YX-Ykt" id="bY9-CA-Mv8"/>
+                        <outlet property="isOpeletorRigth" destination="sRZ-nP-7zh" id="kMd-IY-QZN"/>
                         <outlet property="sumValue" destination="0hZ-gv-Jzx" id="pXY-yX-8nN"/>
                     </connections>
                 </viewController>

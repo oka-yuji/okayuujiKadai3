@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		287D08C72657FBC4003269C0 /* RelayViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287D08C62657FBC4003269C0 /* RelayViewModel.swift */; };
 		288F60AD26554A0B00A1C2AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60AC26554A0B00A1C2AC /* AppDelegate.swift */; };
 		288F60AF26554A0B00A1C2AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */; };
 		288F60B126554A0B00A1C2AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60B026554A0B00A1C2AC /* ViewController.swift */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		25F0742B7895403171EB9569 /* Pods_KadaiChallenge3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KadaiChallenge3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		287D08C62657FBC4003269C0 /* RelayViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelayViewModel.swift; sourceTree = "<group>"; };
 		288F60A926554A0B00A1C2AC /* KadaiChallenge3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KadaiChallenge3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		288F60AC26554A0B00A1C2AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,7 +73,6 @@
 			children = (
 				288F60AC26554A0B00A1C2AC /* AppDelegate.swift */,
 				288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */,
-				287D08C62657FBC4003269C0 /* RelayViewModel.swift */,
 				288F60B026554A0B00A1C2AC /* ViewController.swift */,
 				288F60B226554A0B00A1C2AC /* Main.storyboard */,
 				288F60B526554A0C00A1C2AC /* Assets.xcassets */,
@@ -208,7 +205,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				287D08C72657FBC4003269C0 /* RelayViewModel.swift in Sources */,
 				288F60B126554A0B00A1C2AC /* ViewController.swift in Sources */,
 				288F60AD26554A0B00A1C2AC /* AppDelegate.swift in Sources */,
 				288F60AF26554A0B00A1C2AC /* SceneDelegate.swift in Sources */,

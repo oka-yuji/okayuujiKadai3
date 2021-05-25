@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		287D08C9265A875D003269C0 /* Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287D08C8265A875D003269C0 /* Operator.swift */; };
+		287D08C9265A875D003269C0 /* Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287D08C8265A875D003269C0 /* Sign.swift */; };
 		288F60AD26554A0B00A1C2AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60AC26554A0B00A1C2AC /* AppDelegate.swift */; };
 		288F60AF26554A0B00A1C2AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */; };
 		288F60B126554A0B00A1C2AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288F60B026554A0B00A1C2AC /* ViewController.swift */; };
@@ -19,7 +19,7 @@
 
 /* Begin PBXFileReference section */
 		25F0742B7895403171EB9569 /* Pods_KadaiChallenge3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KadaiChallenge3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		287D08C8265A875D003269C0 /* Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operator.swift; sourceTree = "<group>"; };
+		287D08C8265A875D003269C0 /* Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
 		288F60A926554A0B00A1C2AC /* KadaiChallenge3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KadaiChallenge3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		288F60AC26554A0B00A1C2AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 				288F60AC26554A0B00A1C2AC /* AppDelegate.swift */,
 				288F60AE26554A0B00A1C2AC /* SceneDelegate.swift */,
 				288F60B026554A0B00A1C2AC /* ViewController.swift */,
-				287D08C8265A875D003269C0 /* Operator.swift */,
+				287D08C8265A875D003269C0 /* Sign.swift */,
 				288F60B226554A0B00A1C2AC /* Main.storyboard */,
 				288F60B526554A0C00A1C2AC /* Assets.xcassets */,
 				288F60B726554A0C00A1C2AC /* LaunchScreen.storyboard */,
@@ -101,8 +101,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 288F60BD26554A0C00A1C2AC /* Build configuration list for PBXNativeTarget "KadaiChallenge3" */;
 			buildPhases = (
-				288F60C026554B2A00A1C2AC /* ShellScript */,
 				044133645473B183D15CC6FA /* [CP] Check Pods Manifest.lock */,
+				288F60C026554B2A00A1C2AC /* ShellScript */,
 				288F60A526554A0B00A1C2AC /* Sources */,
 				288F60A626554A0B00A1C2AC /* Frameworks */,
 				288F60A726554A0B00A1C2AC /* Resources */,
@@ -210,7 +210,7 @@
 			files = (
 				288F60B126554A0B00A1C2AC /* ViewController.swift in Sources */,
 				288F60AD26554A0B00A1C2AC /* AppDelegate.swift in Sources */,
-				287D08C9265A875D003269C0 /* Operator.swift in Sources */,
+				287D08C9265A875D003269C0 /* Sign.swift in Sources */,
 				288F60AF26554A0B00A1C2AC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
